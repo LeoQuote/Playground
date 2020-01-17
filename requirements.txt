@@ -1,4 +1,4 @@
-﻿asn1crypto==0.24.0
+asn1crypto==0.24.0
 astroid==2.0.4
 bcrypt==3.1.4
 certifi==2018.10.15
@@ -6,7 +6,7 @@ cffi==1.11.5
 chardet==3.0.4
 colorama==0.4.0
 cryptography==2.3.1
-Django==2.1.11
+Django>=2.2.9
 djangorestframework==3.9.1
 fabric==2.4.0
 future==0.17.1
